@@ -1,4 +1,4 @@
-package author.modname;
+package envoy.fishing;
 
 import com.fs.starfarer.api.BaseModPlugin;
 import com.fs.starfarer.api.Global;
